@@ -3,4 +3,6 @@ Repository with scripts used for the research done in my master thesis, titled: 
 
 The analysis was split into different parts, separated over different folders, as indicated by alphabetical letters in the folder and script names. The analysis parts correspond to the annotations in the visual summary below.
 
+The thesis can be viewed [here](https://drive.google.com/file/d/1EpmJFihOEvSFgWqLV9sWzhXZXpAnyKKm/view?usp=sharing).
+
 ![image](https://github.com/user-attachments/assets/7e8e0adf-15f3-4570-977c-8c5d4c4f6e0a)
